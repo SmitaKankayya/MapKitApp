@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     
     var bitcodePin : MKPlacemark?
     var pointAnnotation : MKPointAnnotation?
-    var mkCircle : MKCircle?
     
     override func viewDidLoad() {
         super.viewDidLoad()
